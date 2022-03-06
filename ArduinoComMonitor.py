@@ -11,10 +11,6 @@ import geocoder
 
 ser = serial.Serial('COM3', 9600)
 
-# mysql_conn = 'mysql+mysqldb://root:799677Ahdg23#@localhost/binance_price_stream'
-# engine = sqlalchemy.create_engine(mysql_conn)
-
-
 # def writeDataSQL(input):
     
 #     json_data = pymysql.escape_string(input)
